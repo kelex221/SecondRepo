@@ -1,2 +1,2 @@
 # SecondRepo
-This is my secoong repository that is created straight on the GitHub Server
+This is my second repository that is created straight on the GitHub Server
